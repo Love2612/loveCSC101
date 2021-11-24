@@ -1,0 +1,269 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage[table]{xcolor}
+
+\title{GST 108: Introduction to Quantitative Reasoning}
+\author{Nkechi Grace Okoacha}
+
+\begin{document}
+	\maketitle
+	\tableofcontents
+	\newpage
+	\section{LOGIC GATES}
+	  A logic gate is a building block of a digital circuit which is at the heart of any computer operation.
+	\begin{figure}[h!]
+		\includegraphics[width=0.5\linewidth]{Picture1.png}
+		\end{figure}
+	\paragraph{}
+	Behind every digital system is a logic gate		
+\begin{figure}[h!]
+	\includegraphics[width=0.5\linewidth]{Picture2.png}
+	\end{figure}
+\paragraph{}
+Logic gates perform logical operations that take binary input (0s and 1s) and produce  a single binary output. They are used in most electronic device including
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}{0.25\linewidth}
+	\includegraphics[width=\linewidth]{Smartphone.png}
+	\caption{Smartphones}
+	\end{subfigure}
+\begin{subfigure}{0.25\linewidth}
+	\includegraphics[width=\linewidth]{Tablet.png}
+	\caption{Tablets}
+\end{subfigure}
+\begin{subfigure}{0.18\linewidth}
+\includegraphics[width=\linewidth]{Memory device.png}
+\caption{Memory devices}
+\end{subfigure}
+\end{figure}
+\paragraph{}
+Now think of a logic gate like a light switch, it is either in an ON or OFF position. Similarly, the input output terminals are always in one of two binary positions false(0) and true(1). Each gate has its own logic or set of rules that determines how it acts based on multiple inputs outlined in a truth table.
+Combining 10s, 1000s or millions of logic gates makes it possible for a computer to perform highly complex operations and tasks at ever increasing speeds.
+\subsection{Logic Gates}
+A gate is a basic electronic circuit which operates on one or more signals to produce an output signal. 
+Logic gates are digital circuits constructed from diodes, transistors, and resistors connected in such a way that the circuit output is the result of a basic logic operation (OR, AND, NOT) performed on the inputs.
+\subsection{Types of Logic Gates}
+Fundamental gates are AND, OR and NOT
+\begin{figure}[h!]
+	\includegraphics[width=0.8\linewidth]{Picture3.png}
+\end{figure}
+\paragraph{}
+Derived Gates are NAND, NOR, XOR and XNOR (derived from the fundamental gates)
+
+Universal Gates are NAND and NOR gates (the fundamental logic gates can be realized through them).
+\subsubsection{AND Gate}
+The expression C = A X B reads as “C equals A AND B“ 
+The multiplication sign (X) stands for the AND operation, same for ordinary multiplication of 1s and 0s.
+
+Input \includegraphics[width=0.3\linewidth]{And.png} Output
+\newpage
+\paragraph{}
+The AND operation produces a true output (result of 1) only for the single case when all of the input variables are 1 and a false output (result of 0) where one or more inputs are 0.
+
+\begin{table}[h!]
+ \begin{center}
+ 	\begin{tabular}{| c | c | c |}
+ 		\hline
+ 		\cellcolor{blue!85}A & \cellcolor{blue!85}B & \cellcolor{blue!85}C= A X B\\
+ 		\cellcolor{black!25}1 & \cellcolor{black!25}1 & \cellcolor{black!25}1\\
+ 		\cellcolor{black!10}1 & \cellcolor{black!10}0 & \cellcolor{black!10}0\\
+ 		\cellcolor{black!25}0 & \cellcolor{black!25}1 & \cellcolor{black!25}0\\
+ 		\cellcolor{black!10}0 & \cellcolor{black!10}0 & \cellcolor{black!10}0\\
+ 		\hline
+ 		\end{tabular}
+ \end{center}
+\end{table}
+\paragraph{}
+\centering
+And Gate
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.8\linewidth]{And gate.png}
+\end{figure}
+\subsubsection{OR Gate}
+\begin{itemize}
+	\item The expression C = A + B reads as “C equals A OR B". It is the inclusive “OR”
+\item The Addition (+) sign stands for the OR operation
+
+Input \includegraphics[width=0.3\linewidth]{or.png} Output
+
+\item The OR operation produces a true output (result of 1) when any of the input variable is 1 and a false output (result of 0) only when all the input variables are 0.
+
+\end{itemize}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|c|c|c|}
+			\hline
+			\cellcolor{blue!85}A & \cellcolor{blue!85}B & \cellcolor{blue!85}C= A + B\\
+			\cellcolor{black!25}1 & \cellcolor{black!25}1 & \cellcolor{black!25}1\\
+			\cellcolor{black!10}1 & \cellcolor{black!10}0 & \cellcolor{black!10}1\\
+			\cellcolor{black!25}0 & \cellcolor{black!25}1 & \cellcolor{black!25}1\\
+			\cellcolor{black!10}0 & \cellcolor{black!10}0 & \cellcolor{black!10}0\\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+\paragraph{}
+\newpage
+\centering
+OR Gate
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.8\linewidth]{OR Gate.png}
+\end{figure}
+\subsubsection{NOT GATE}
+\begin{itemize}
+	\item The NOT gate is called a logical inverter.
+\item It has only one input. It reverses the original input (A) to give an inverted output C.
+
+\centering
+C = NOT A or C = {$\overline{A} 
+$}
+
+Input \includegraphics[width=0.3\linewidth]{NOT.png} Output
+	\end{itemize}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|c|c|}
+			\hline
+			\cellcolor{blue!85}A & \cellcolor{blue!85}C= {$\overline{A}$} \\
+			\cellcolor{black!25}1 & \cellcolor{black!25}0\\
+			\cellcolor{black!10}0 & \cellcolor{black!10}1\\
+	\hline
+\end{tabular}
+\end{center}
+\end{table}	
+\paragraph{}
+\newpage
+\centering
+NOT Gate
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.8\linewidth]{NOT GATE.png}
+\end{figure}
+\subsubsection{NOR GATE}
+\begin{itemize}
+	\item The NOR (NOT OR) gate circuit is an inverter OR gate
+	
+	C = {$\overline{((A+B))}$} 
+\item Reads as C = NOT of A or B
+\item The NOR Gate gives a true output (result of 1) only when both inputs are false (0)
+
+\end{itemize}	
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.4\linewidth]{NOR.png}\includegraphics[width=0.15\linewidth]{Arrow.png}\includegraphics[width=0.3\linewidth]{NOR result.png}
+\end{figure}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|c|c|c|c|}
+			\hline
+			\cellcolor{blue!85}A & \cellcolor{blue!85}B & \cellcolor{blue!85}C= A + B & \cellcolor{blue!85}C = {$\overline{((A+B))}$}\\
+			\cellcolor{black!25}1 & \cellcolor{black!25}1 & \cellcolor{black!25}1 & \cellcolor{black!25}0\\
+			\cellcolor{black!10}1 & \cellcolor{black!10}0 & \cellcolor{black!10}1 & \cellcolor{black!10}0\\
+			\cellcolor{black!25}0 & \cellcolor{black!25}1 & \cellcolor{black!25}1 & \cellcolor{black!25}0\\
+			\cellcolor{black!10}0 & \cellcolor{black!10}0 & \cellcolor{black!10}0 & \cellcolor{black!25}1\\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{table}
+\paragraph{}
+The NOR Gate is a universal gate because it can be used to form any other kind of gate 
+\paragraph{}
+\newpage
+\centering
+NOR Gate
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.8\linewidth]{NOR GATE.png}
+\end{figure}
+\subsubsection{NAND GATE}
+\begin{itemize}
+	\item The NAND (NOT AND) Gate is an inverted AND Gate
+	
+	C = {$\overline{((AXB))}$}
+	
+\item Reads as C = NOT of A AND B
+\item The NAND Gate gives a false output (result of 0) only when both inputs are true (1)
+
+\end{itemize}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.4\linewidth]{NAND.png}\includegraphics[width=0.15\linewidth]{Arrow.png}\includegraphics[width=0.3\linewidth]{NAND RESULT.png}
+\end{figure}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|c|c|c|c|}
+			\hline
+			\cellcolor{blue!85}A & \cellcolor{blue!85}B & \cellcolor{blue!85}C= A X B & \cellcolor{blue!85}C = {$\overline{((AXB))}$}\\
+			\cellcolor{black!25}1 & \cellcolor{black!25}1 & \cellcolor{black!25}1 & \cellcolor{black!25}0\\
+			\cellcolor{black!10}1 & \cellcolor{black!10}0 & \cellcolor{black!10}O & \cellcolor{black!10}1\\
+			\cellcolor{black!25}0 & \cellcolor{black!25}1 & \cellcolor{black!25}0 & \cellcolor{black!25}1\\
+			\cellcolor{black!10}0 & \cellcolor{black!10}0 & \cellcolor{black!10}0 & \cellcolor{black!25}1\\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+\paragraph{}
+\newpage
+The NAND Gate is a universal gate because it can be used to form any other kind of gate
+\paragraph{}
+\centering
+NAND Gate 
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.8\linewidth]{NAND GATE.png}
+\end{figure}
+\subsubsection{XOR GATE}
+\begin{itemize}
+	\item An XOR (exclusive OR) gate acts in the same way as the exclusive OR logical connector.
+	\item It gives a true output (result of 1) if one, and only one, of the inputs to the gate is true (1), i.e either or but not both
+
+C= A\includegraphics[width=0.02\linewidth]{logic xor symbol.png}B={$\overline{A}$}.B+{$\overline{B}$}.A
+\end{itemize}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.4\linewidth]{XOR.png}\includegraphics[width=0.15\linewidth]{Arrow.png}\includegraphics[width=0.3\linewidth]{XOR RESULT.png}
+\end{figure}
+It uses a combination of three basic gates – AND, OR and NOT
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|c|c|c|c|c|c|c|c|}
+			\hline
+			\cellcolor{blue!85}A & \cellcolor{blue!85}B & \cellcolor{blue!85}{$\overline{A}$} & \cellcolor{blue!85}{$\overline{B}$} &  \cellcolor{blue!85}{$\overline{A}$}.B &  \cellcolor{blue!85}{$\overline{B}$}.A  & \cellcolor{blue!85}C = {$\overline{A}$}.B+{$\overline{B}$}.A\\
+			\cellcolor{black!25}1 & \cellcolor{black!25}1 & \cellcolor{black!25}0 & \cellcolor{black!25}0 & \cellcolor{black!25}0 & \cellcolor{black!25}0 & \cellcolor{black!25}0\\
+			\cellcolor{black!10}1 & \cellcolor{black!10}0 & \cellcolor{black!10}O & \cellcolor{black!10}1 & \cellcolor{black!10}0 & \cellcolor{black!10}1 & \cellcolor{black!10}1\\
+			\cellcolor{black!25}0 & \cellcolor{black!25}1 & \cellcolor{black!25}1 & \cellcolor{black!25}0 & \cellcolor{black!25}1 & \cellcolor{black!25}0 & \cellcolor{black!25}1\\
+			\cellcolor{black!10}0 & \cellcolor{black!10}0 & \cellcolor{black!10}1 & \cellcolor{black!10}1 & \cellcolor{black!10}0 & \cellcolor{black!10}0 & \cellcolor{black!10}0\\
+			\hline 
+		\end{tabular}
+	\end{center}
+\end{table}
+\subsubsection{XNOR GATE}
+\begin{itemize}
+	\item The XNOR (exclusive - NOR) gate is a combination XOR gate followed by an inverter. It is represented by the \includegraphics[width=0.03\linewidth]{xnor logic rep.png}
+	\item Its gives a  true output (1), if the inputs are the same, and a false output (0) if the inputs are different. 
+C= {$\overline{A\includegraphics[width=0.02\linewidth]{logic xor symbol.png}B}$} 
+\end{itemize}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.4\linewidth]{XNOR.png}\includegraphics[width=0.13\linewidth]{Arrow.png}\includegraphics[width=0.3\linewidth]{XNOR RESULT.png}
+\end{figure}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+			\hline
+			\cellcolor{blue!85}A & \cellcolor{blue!85}B & \cellcolor{blue!85}{$\overline{A}$} & \cellcolor{blue!85}{$\overline{B}$} &  \cellcolor{blue!85}{$\overline{A}$}.B &  \cellcolor{blue!85}{$\overline{B}$}.A  & \cellcolor{blue!85}C = {$\overline{A}$}.B+{$\overline{B}$}.A & \cellcolor{blue!85}C= {$\overline{A\includegraphics[width=0.02\linewidth]{logic xor symbol.png}B}$}\\
+			\cellcolor{black!25}1 & \cellcolor{black!25}1 & \cellcolor{black!25}0 & \cellcolor{black!25}0 & \cellcolor{black!25}0 & \cellcolor{black!25}0 & \cellcolor{black!25}0 & \cellcolor{black!25}1\\
+			\cellcolor{black!10}1 & \cellcolor{black!10}0 & \cellcolor{black!10}O & \cellcolor{black!10}1 & \cellcolor{black!10}0 & \cellcolor{black!10}1 & \cellcolor{black!10}1 & \cellcolor{black!10}0\\
+			\cellcolor{black!25}0 & \cellcolor{black!25}1 & \cellcolor{black!25}1 & \cellcolor{black!25}0 & \cellcolor{black!25}1 & \cellcolor{black!25}0 & \cellcolor{black!25}1 & \cellcolor{black!25}0\\
+			\cellcolor{black!10}0 & \cellcolor{black!10}0 & \cellcolor{black!10}1 & \cellcolor{black!10}1 & \cellcolor{black!10}0 & \cellcolor{black!10}0 & \cellcolor{black!10}0 & \cellcolor{black!10}1\\
+			\hline 
+		\end{tabular}
+	\end{center}
+\end{table}
+\end{document}
+	

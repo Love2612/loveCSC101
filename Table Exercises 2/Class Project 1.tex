@@ -1,0 +1,43 @@
+\documentclass[10pt,a4paper,onecolumn]{article}
+\usepackage{pgfplotstable}
+\usepackage{booktabs}
+\usepackage{multirow}
+
+\begin{document}
+	\begin{table}[h!]
+		\begin{center}
+			\caption{The Robots Dialogue}
+			\label{table1}
+			\pgfplotstabletypeset[
+				multicolumn names,
+				col sep=comma,
+				dispaly columns/0/.style={
+					column name=$source$,
+					column type={c},string type}, 
+				dispaly columns/1/.style={
+				column name=$num1$
+				column type={r},string type},
+			dispaly columns/2/.style={
+				column name=$num2$
+				column type={r},string type},
+			dispaly columns/3/.style={
+				column name=$num3$
+				column type={r},string type},
+			dispaly columns/4/.style={
+				column name=$num4$
+				column type={r},string type},
+			dispaly columns/5/.style={
+				column name=$num5$
+				column type={r},string type},
+			every head row/.style={
+				before row={\toprule},  
+				after row={
+					\midrule}
+				},
+			every last row/.style={after row=\bottomrule},
+			]{Classification-of-Robots.csv}
+				\end{center}
+			\end{table}
+		
+		 \end{document}
+			

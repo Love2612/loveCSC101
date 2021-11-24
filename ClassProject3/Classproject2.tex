@@ -1,0 +1,40 @@
+\documentclass[10pt,a4paper,onecolumn]{article}
+\usepackage{pgfplotstable}
+\usepackage{booktabs}
+\usepackage{multirow}
+\begin{document}
+	\begin{table}[h!]
+		\begin{center}
+			\caption{Influential Artists}
+			\pgfplotstabletypeset[
+			multicolumn names,
+			col sep=comma,
+			dispaly columns/0/.style={
+				column name=$id$,
+				column type={c},string type},
+			dispaly columns/1/.style={
+				column name=$name$
+				column type={S},string type},
+			dispaly columns/2/.style={
+				column name=$years$
+				column type={S},string type},
+			dispaly columns/3/.style={
+				column name=$genre$
+				column type={S},string type},
+			dispaly columns/4/.style={
+				column name=$nationality$
+				column type={S},string type},
+			dispaly columns/5/.style={
+				column name=$painting$
+				column type={S},string type},
+			every head row/.style={
+				before row={\toprule},  
+				after row={
+					\midrule}
+			},
+			every last row/.style={after row=\bottomrule},
+			]{artists.csv}
+		\end{center}
+	\end{table}
+
+\end{document}

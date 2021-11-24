@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}LOGIC GATES}{2}{}%
+\contentsline {paragraph}{}{2}{}%
+\contentsline {paragraph}{}{2}{}%
+\contentsline {paragraph}{}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Logic Gates}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Types of Logic Gates}{3}{}%
+\contentsline {paragraph}{}{3}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}AND Gate}{3}{}%
+\contentsline {paragraph}{}{4}{}%
+\contentsline {paragraph}{}{4}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}OR Gate}{4}{}%
+\contentsline {paragraph}{}{4}{}%
+\contentsline {subsubsection}{\numberline {1.2.3}NOT GATE}{5}{}%
+\contentsline {paragraph}{}{5}{}%
+\contentsline {subsubsection}{\numberline {1.2.4}NOR GATE}{6}{}%
+\contentsline {paragraph}{}{6}{}%
+\contentsline {paragraph}{}{6}{}%
+\contentsline {subsubsection}{\numberline {1.2.5}NAND GATE}{7}{}%
+\contentsline {paragraph}{}{7}{}%
+\contentsline {paragraph}{}{8}{}%
+\contentsline {subsubsection}{\numberline {1.2.6}XOR GATE}{8}{}%
+\contentsline {subsubsection}{\numberline {1.2.7}XNOR GATE}{9}{}%

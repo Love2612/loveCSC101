@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Takehome.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Database file #1: Cardano.bib
+Warning--entry type for "jj1998cardano" isn't style-file defined
+--line 1 of file Cardano.bib
+Warning--entry type for "proof2021cardano" isn't style-file defined
+--line 7 of file Cardano.bib
+You've used 2 entries,
+            1876 wiz_defined-function locations,
+            483 strings with 3627 characters,
+and the built_in function-call counts, 255 in all, are:
+= -- 18
+> -- 9
+< -- 0
++ -- 4
+- -- 2
+* -- 10
+:= -- 38
+add.period$ -- 1
+call.type$ -- 2
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 8
+empty$ -- 37
+format.name$ -- 2
+if$ -- 63
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 0
+newline$ -- 9
+num.names$ -- 1
+pop$ -- 11
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 15
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 1
+width$ -- 3
+write$ -- 14
+(There were 2 warnings)

@@ -1,0 +1,1821 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.11.24)  24 NOV 2021 23:07
+entering extended mode
+**./Classproject2.tex
+(Classproject2.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplotstable.
+sty
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.rev
+ision.tex)
+Package: pgfplotstable 2021/05/15 v1.18.1 Table typesetting and Pretty-printing
+ (1.18.1)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.rev
+ision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen141
+\pgfutil@tempdimb=\dimen142
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box50
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen143
+\pgf@y=\dimen144
+\pgf@xa=\dimen145
+\pgf@ya=\dimen146
+\pgf@xb=\dimen147
+\pgf@yb=\dimen148
+\pgf@xc=\dimen149
+\pgf@yc=\dimen150
+\pgf@xd=\dimen151
+\pgf@yd=\dimen152
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count190
+\c@pgf@countb=\count191
+\c@pgf@countc=\count192
+\c@pgf@countd=\count193
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count194
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count195
+\pgfsyssoftpath@bigbuffer@items=\count196
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen153
+\pgfmath@count=\count197
+\pgfmath@box=\box51
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count198
+))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen154
+\pgf@picmaxx=\dimen155
+\pgf@picminy=\dimen156
+\pgf@picmaxy=\dimen157
+\pgf@pathminx=\dimen158
+\pgf@pathmaxx=\dimen159
+\pgf@pathminy=\dimen160
+\pgf@pathmaxy=\dimen161
+\pgf@xx=\dimen162
+\pgf@xy=\dimen163
+\pgf@yx=\dimen164
+\pgf@yy=\dimen165
+\pgf@zx=\dimen166
+\pgf@zy=\dimen167
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen168
+\pgf@path@lasty=\dimen169
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen170
+\pgf@shorten@start@additional=\dimen171
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box52
+\pgf@hbox=\box53
+\pgf@layerbox@main=\box54
+\pgf@picture@serial@count=\count199
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen172
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen173
+\pgf@pt@y=\dimen174
+\pgf@pt@temp=\dimen175
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen176
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen177
+\pgf@sys@shading@range@num=\count266
+\pgf@shadingcount=\count267
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box55
+))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box56
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen178
+\pgf@nodesepend=\dimen179
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen180
+\pgffor@skip=\dimen181
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count268
+\pgfplotmarksize=\dimen182
+)
+\tikz@lastx=\dimen183
+\tikz@lasty=\dimen184
+\tikz@lastxsaved=\dimen185
+\tikz@lastysaved=\dimen186
+\tikz@lastmovetox=\dimen187
+\tikz@lastmovetoy=\dimen188
+\tikzleveldistance=\dimen189
+\tikzsiblingdistance=\dimen190
+\tikz@figbox=\box57
+\tikz@figbox@bg=\box58
+\tikz@tempbox=\box59
+\tikz@tempbox@bg=\box60
+\tikztreelevel=\count269
+\tikznumberofchildren=\count270
+\tikznumberofcurrentchild=\count271
+\tikz@fig@count=\count272
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count273
+\pgfmatrixcurrentcolumn=\count274
+\pgf@matrix@numberofcolumns=\count275
+)
+\tikz@expandcount=\count276
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.cod
+e.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore
+.code.tex
+\t@pgfplots@toka=\toks29
+\t@pgfplots@tokb=\toks30
+\t@pgfplots@tokc=\toks31
+\pgfplots@tmpa=\dimen191
+\c@pgfplots@coordindex=\count277
+\c@pgfplots@scanlineindex=\count278
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplots
+sysgeneric.code.tex))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplot
+slibrary.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.code.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructure.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructureext.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count279
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsmatrix.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgf
+plotstableshared.code.tex
+\c@pgfplotstable@counta=\count280
+\t@pgfplotstable@a=\toks32
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsdeque.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.code.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.data.code.tex))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.verb.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibr
+arypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count281
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibra
+rypgfplots.surfshading.pgfsys-pdftex.def)))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolormap.code.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolor.code.tex))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstac
+kedplots.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplot
+handlers.code.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plothandler.code.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plotimage.code.tex)))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.sca
+ling.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoor
+dprocessing.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.err
+orbars.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.mar
+kers.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotstick
+s.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.pat
+hs.code.tex)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen192
+\pgfdecoratedremainingdistance=\dimen193
+\pgfdecoratedinputsegmentcompleteddistance=\dimen194
+\pgfdecoratedinputsegmentremainingdistance=\dimen195
+\pgf@decorate@distancetomove=\dimen196
+\pgf@decorate@repeatstate=\count282
+\pgfdecorationsegmentamplitude=\dimen197
+\pgfdecorationsegmentlength=\dimen198
+)
+\tikz@lib@dec@box=\box61
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlib
+rarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count283
+\pgfplots@xmin@reg=\dimen199
+\pgfplots@xmax@reg=\dimen256
+\pgfplots@ymin@reg=\dimen257
+\pgfplots@ymax@reg=\dimen258
+\pgfplots@zmin@reg=\dimen259
+\pgfplots@zmax@reg=\dimen260
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgf
+plotstable.code.tex
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgf
+plotstable.coltype.code.tex))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen261
+\ar@mcellbox=\box62
+\extrarowheight=\dimen262
+\NC@list=\toks33
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box63
+))
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen263
+\lightrulewidth=\dimen264
+\cmidrulewidth=\dimen265
+\belowrulesep=\dimen266
+\belowbottomsep=\dimen267
+\aboverulesep=\dimen268
+\abovetopsep=\dimen269
+\cmidrulesep=\dimen270
+\cmidrulekern=\dimen271
+\defaultaddspace=\dimen272
+\@cmidla=\count284
+\@cmidlb=\count285
+\@aboverulesep=\dimen273
+\@belowrulesep=\dimen274
+\@thisruleclass=\count286
+\@lastruleclass=\count287
+\@thisrulewidth=\dimen275
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip51
+\multirow@cntb=\count288
+\multirow@dima=\skip52
+\bigstrutjot=\dimen276
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count289
+\l__pdf_internal_box=\box64
+) (Classproject2.aux)
+\openout1 = `Classproject2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen277
+\scratchbox=\box65
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen278
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks35
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
+your preamble.
+ on input line 5.
+
+PGFPlots: reading {artists.csv}
+
+! Package PGF Math Error: Could not parse input 'Amedeo Modigliani' as a floati
+ng point number, sorry. The unreadable part was near 'Amedeo Modigliani'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+! Package PGF Math Error: Could not parse input 'Vasiliy Kandinskiy' as a float
+ing point number, sorry. The unreadable part was near 'Vasiliy Kandinskiy'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Diego Rivera' as a floating po
+int number, sorry. The unreadable part was near 'Diego Rivera'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Claude Monet' as a floating po
+int number, sorry. The unreadable part was near 'Claude Monet'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Rene Magritte' as a floating p
+oint number, sorry. The unreadable part was near 'Rene Magritte'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Salvador Dali' as a floating p
+oint number, sorry. The unreadable part was near 'Salvador Dali'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Edouard Manet' as a floating p
+oint number, sorry. The unreadable part was near 'Edouard Manet'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Andrei Rublev' as a floating p
+oint number, sorry. The unreadable part was near 'Andrei Rublev'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Vincent van Gogh' as a floatin
+g point number, sorry. The unreadable part was near 'Vincent van Gogh'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Gustav Klimt' as a floating po
+int number, sorry. The unreadable part was near 'Gustav Klimt'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Hieronymus Bosch' as a floatin
+g point number, sorry. The unreadable part was near 'Hieronymus Bosch'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Kazimir Malevich' as a floatin
+g point number, sorry. The unreadable part was near 'Kazimir Malevich'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Mikhail Vrubel' as a floating 
+point number, sorry. The unreadable part was near 'Mikhail Vrubel'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Pablo Picasso' as a floating p
+oint number, sorry. The unreadable part was near 'Pablo Picasso'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Peter Paul Rubens' as a floati
+ng point number, sorry. The unreadable part was near 'Peter Paul Rubens'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Pierre-Auguste Renoir' as a fl
+oating point number, sorry. The unreadable part was near 'Pierre-Auguste Renoir
+'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Francisco Goya' as a floating 
+point number, sorry. The unreadable part was near 'Francisco Goya'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Frida Kahlo' as a floating poi
+nt number, sorry. The unreadable part was near 'Frida Kahlo'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'El Greco' as a floating point 
+number, sorry. The unreadable part was near 'El Greco'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Albrecht D\unhbox \voidb@x \bg
+roup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {u\global \mathchardef \acc
+ent@spacefactor \spacefactor }\let \begingroup \let \typeout \begingroup\def 
+(PGF Math)                {
+(Font)              }\let \immediate\write \m@ne {LaTeX Font Info:     on input
+ line 36.}\endgroup \endgroup \relax \let \ignorespaces \relax \accent 127 u\eg
+roup \spacefactor \accent@spacefactor rer' as a floating point number, sorry. T
+he unreadable part was near 'Albrecht D\unhbox \voidb@x \bgroup \let \unhbox \v
+oidb@x \setbox \@tempboxa \hbox {u\global \mathchardef \accent@spacefactor \spa
+cefactor }\let \begingroup \let \typeout \begingroup\def 
+(PGF Math)                {
+(Font)              }\let \immediate\write \m@ne {LaTeX Font Info:     on input
+ line 36.}\endgroup \endgroup \relax \let \ignorespaces \relax \accent 127 u\eg
+roup \spacefactor \accent@spacefactor rer'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Alfred Sisley' as a floating p
+oint number, sorry. The unreadable part was near 'Alfred Sisley'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Pieter Bruegel' as a floating 
+point number, sorry. The unreadable part was near 'Pieter Bruegel'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Marc Chagall' as a floating po
+int number, sorry. The unreadable part was near 'Marc Chagall'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Giotto di Bondone' as a floati
+ng point number, sorry. The unreadable part was near 'Giotto di Bondone'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Sandro Botticelli' as a floati
+ng point number, sorry. The unreadable part was near 'Sandro Botticelli'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Caravaggio' as a floating poin
+t number, sorry. The unreadable part was near 'Caravaggio'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Leonardo da Vinci' as a floati
+ng point number, sorry. The unreadable part was near 'Leonardo da Vinci'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Diego Velazquez' as a floating
+ point number, sorry. The unreadable part was near 'Diego Velazquez'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Henri Matisse' as a floating p
+oint number, sorry. The unreadable part was near 'Henri Matisse'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Jan van Eyck' as a floating po
+int number, sorry. The unreadable part was near 'Jan van Eyck'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Edgar Degas' as a floating poi
+nt number, sorry. The unreadable part was near 'Edgar Degas'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Rembrandt' as a floating point
+ number, sorry. The unreadable part was near 'Rembrandt'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Titian' as a floating point nu
+mber, sorry. The unreadable part was near 'Titian'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Henri de Toulouse-Lautrec' as 
+a floating point number, sorry. The unreadable part was near 'Henri de Toulouse
+-Lautrec'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Gustave Courbet' as a floating
+ point number, sorry. The unreadable part was near 'Gustave Courbet'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Camille Pissarro' as a floatin
+g point number, sorry. The unreadable part was near 'Camille Pissarro'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'William Turner' as a floating 
+point number, sorry. The unreadable part was near 'William Turner'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Edvard Munch' as a floating po
+int number, sorry. The unreadable part was near 'Edvard Munch'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Paul Cezanne' as a floating po
+int number, sorry. The unreadable part was near 'Paul Cezanne'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Eugene Delacroix' as a floatin
+g point number, sorry. The unreadable part was near 'Eugene Delacroix'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Henri Rousseau' as a floating 
+point number, sorry. The unreadable part was near 'Henri Rousseau'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Georges Seurat' as a floating 
+point number, sorry. The unreadable part was near 'Georges Seurat'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Paul Klee' as a floating point
+ number, sorry. The unreadable part was near 'Paul Klee'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Piet Mondrian' as a floating p
+oint number, sorry. The unreadable part was near 'Piet Mondrian'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Joan Miro' as a floating point
+ number, sorry. The unreadable part was near 'Joan Miro'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Andy Warhol' as a floating poi
+nt number, sorry. The unreadable part was near 'Andy Warhol'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Paul Gauguin' as a floating po
+int number, sorry. The unreadable part was near 'Paul Gauguin'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Raphael' as a floating point n
+umber, sorry. The unreadable part was near 'Raphael'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Michelangelo' as a floating po
+int number, sorry. The unreadable part was near 'Michelangelo'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Jackson Pollock' as a floating
+ point number, sorry. The unreadable part was near 'Jackson Pollock'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1884 - 1920' as a floating poi
+nt number, sorry. The unreadable part was near '- 1920'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1866 - 1944' as a floating poi
+nt number, sorry. The unreadable part was near '- 1944'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1886 - 1957' as a floating poi
+nt number, sorry. The unreadable part was near '- 1957'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1840 - 1926' as a floating poi
+nt number, sorry. The unreadable part was near '- 1926'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1898 - 1967' as a floating poi
+nt number, sorry. The unreadable part was near '- 1967'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1904 - 1989' as a floating poi
+nt number, sorry. The unreadable part was near '- 1989'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1832 - 1883' as a floating poi
+nt number, sorry. The unreadable part was near '- 1883'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1360 - 1430' as a floating poi
+nt number, sorry. The unreadable part was near '- 1430'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1853 - 1890' as a floating poi
+nt number, sorry. The unreadable part was near '- 1890'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1862 - 1918' as a floating poi
+nt number, sorry. The unreadable part was near '- 1918'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1450 - 1516' as a floating poi
+nt number, sorry. The unreadable part was near '- 1516'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1879 - 1935' as a floating poi
+nt number, sorry. The unreadable part was near '- 1935'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1856 - 1910' as a floating poi
+nt number, sorry. The unreadable part was near '- 1910'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1881 - 1973' as a floating poi
+nt number, sorry. The unreadable part was near '- 1973'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1577 - 1640' as a floating poi
+nt number, sorry. The unreadable part was near '- 1640'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1841 - 1919' as a floating poi
+nt number, sorry. The unreadable part was near '- 1919'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1746 - 1828' as a floating poi
+nt number, sorry. The unreadable part was near '- 1828'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1907 - 1954' as a floating poi
+nt number, sorry. The unreadable part was near '- 1954'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1541 - 1614' as a floating poi
+nt number, sorry. The unreadable part was near '- 1614'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1471 - 1528' as a floating poi
+nt number, sorry. The unreadable part was near '- 1528'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1839 - 1899' as a floating poi
+nt number, sorry. The unreadable part was near '- 1899'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1525 - 1569' as a floating poi
+nt number, sorry. The unreadable part was near '- 1569'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1887 - 1985' as a floating poi
+nt number, sorry. The unreadable part was near '- 1985'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1266 - 1337' as a floating poi
+nt number, sorry. The unreadable part was near '- 1337'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1445 - 1510' as a floating poi
+nt number, sorry. The unreadable part was near '- 1510'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1571 - 1610' as a floating poi
+nt number, sorry. The unreadable part was near '- 1610'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1452 - 1519' as a floating poi
+nt number, sorry. The unreadable part was near '- 1519'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1599 - 1660' as a floating poi
+nt number, sorry. The unreadable part was near '- 1660'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1869 - 1954' as a floating poi
+nt number, sorry. The unreadable part was near '- 1954'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1395 - 1441' as a floating poi
+nt number, sorry. The unreadable part was near '- 1441'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1834 - 1917' as a floating poi
+nt number, sorry. The unreadable part was near '- 1917'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1606 - 1669' as a floating poi
+nt number, sorry. The unreadable part was near '- 1669'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1488 - 1576' as a floating poi
+nt number, sorry. The unreadable part was near '- 1576'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1864 - 1901' as a floating poi
+nt number, sorry. The unreadable part was near '- 1901'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1819 - 1877' as a floating poi
+nt number, sorry. The unreadable part was near '- 1877'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1830 - 1903' as a floating poi
+nt number, sorry. The unreadable part was near '- 1903'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1775 - 1851' as a floating poi
+nt number, sorry. The unreadable part was near '- 1851'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1863 - 1944' as a floating poi
+nt number, sorry. The unreadable part was near '- 1944'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1839 - 1906' as a floating poi
+nt number, sorry. The unreadable part was near '- 1906'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1798 - 1863' as a floating poi
+nt number, sorry. The unreadable part was near '- 1863'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1844 - 1910' as a floating poi
+nt number, sorry. The unreadable part was near '- 1910'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1859 - 1891' as a floating poi
+nt number, sorry. The unreadable part was near '- 1891'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1879 - 1940' as a floating poi
+nt number, sorry. The unreadable part was near '- 1940'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1872 - 1944' as a floating poi
+nt number, sorry. The unreadable part was near '- 1944'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1893 - 1983' as a floating poi
+nt number, sorry. The unreadable part was near '- 1983'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1928 - 1987' as a floating poi
+nt number, sorry. The unreadable part was near '- 1987'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1848 - 1903' as a floating poi
+nt number, sorry. The unreadable part was near '- 1903'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1483 - 1520' as a floating poi
+nt number, sorry. The unreadable part was near '- 1520'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1475 - 1564' as a floating poi
+nt number, sorry. The unreadable part was near '- 1564'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1912 - 1956' as a floating poi
+nt number, sorry. The unreadable part was near '- 1956'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 			]{artists.csv}
+                      
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 22305 strings out of 478936
+ 606319 string characters out of 2852770
+ 1125034 words of memory out of 3000000
+ 39840 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 114i,3n,117p,734b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,13 +1,13 @@
 \documentclass{article}
 \usepackage{booktabs} % For \toprule, \midrule and \bottomrule
 \usepackage{multirow}
-%\usepackage{siunitx} % Formats the units and values
+\usepackage{siunitx} % Formats the units and values
 \usepackage{pgfplotstable} % Generates table from .csv
 %Setup siunitx:
-%\sisetup{
-%	round-mode            =places, % Rounds numbers
-%	round-precision       =2, % to 2 places
-%}
+\sisetup{
+	round-mode            =places, % Rounds numbers
+	round-precision       =2, % to 2 places
+}
 \begin{document}
 	\begin{table}[h!]
 		\begin{center}
@@ -17,11 +17,11 @@
 			multicolumn names, % allows to have multicolumn names
 			col sep=comma, % the seperator in our .csv file
 			dispaly columns/0/.style={
-				column name=$Value 1$}, % name of first column
-%				column type={S},string type}, % use siunitx for formatting
+				column name=$Value 1$, % name of first column
+				column type={S},string type}, % use siunitx for formatting
 			dispaly columns/1/.style={
-				column name=$Value 2$},
-%				column type={S},string type},
+				column name=Value 2,
+				column type={S},string type},
 			every head row/.style={
 				before row={\toprule}, % have a rule on top 
 				after row={
@@ -29,7 +29,7 @@
 					\midrule} % rule under units
 				},
 			every last row/.style={after row=\bottomrule}, % rule at bottom 
-			]{table-1.csv} % filename/path to file
+			]{table.csv} % filename/path to file
 			\end{center}
 		  \end{table}
 	  \end{document}

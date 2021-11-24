@@ -1,0 +1,363 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.11.24)  24 NOV 2021 22:41
+entering extended mode
+**./ClassProject2.tex
+(ClassProject2.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) ("C:\Program Files\MiKTeX\tex/latex/caption\subcaption.sty"
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+("C:\Program Files\MiKTeX\tex/latex/caption\caption.sty"
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+("C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty"
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@tempdima=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count190
+\c@continuedfloat=\count191
+)
+\c@subfigure=\count192
+\c@subtable=\count193
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+("C:\Program Files\MiKTeX\tex/latex/colortbl\colortbl.sty"
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen148
+\ar@mcellbox=\box50
+\extrarowheight=\dimen149
+\NC@list=\toks17
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box51
+)
+\everycr=\toks18
+\minrowclearance=\skip51
+)
+\rownum=\count194
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box52
+) (ClassProject2.aux)
+\openout1 = `ClassProject2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen150
+\scratchbox=\box53
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen151
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks20
+)
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Glory\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+ (ClassProject2.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+)
+\tf@toc=\write3
+\openout3 = `ClassProject2.toc'.
+
+ [1
+
+{C:/Users/Glory/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<Picture1.png, id=10, 481.8pt x 330.033pt>
+File: Picture1.png Graphic file (type png)
+<use Picture1.png>
+Package pdftex.def Info: Picture1.png  used on input line 16.
+(pdftex.def)             Requested size: 172.5pt x 118.16216pt.
+<Picture2.png, id=12, 448.67625pt x 344.28625pt>
+File: Picture2.png Graphic file (type png)
+<use Picture2.png>
+Package pdftex.def Info: Picture2.png  used on input line 21.
+(pdftex.def)             Requested size: 172.5pt x 132.3641pt.
+<Smartphone.png, id=13, 301.125pt x 301.125pt>
+File: Smartphone.png Graphic file (type png)
+<use Smartphone.png>
+Package pdftex.def Info: Smartphone.png  used on input line 28.
+(pdftex.def)             Requested size: 86.25pt x 86.24883pt.
+<Tablet.png, id=14, 200.75pt x 200.75pt>
+File: Tablet.png Graphic file (type png)
+<use Tablet.png>
+Package pdftex.def Info: Tablet.png  used on input line 32.
+(pdftex.def)             Requested size: 86.25pt x 86.25035pt.
+<Memory device.png, id=15, 72.27pt x 99.37125pt>
+File: Memory device.png Graphic file (type png)
+<use Memory device.png>
+Package pdftex.def Info: Memory device.png  used on input line 36.
+(pdftex.def)             Requested size: 62.09747pt x 85.3833pt.
+ [2 <./Picture1.png> <./Picture2.png (PNG copy)> <./Smartphone.png> <./Tablet.p
+ng> <./Memory device.png>]
+<Picture3.png, id=24, 825.83531pt x 168.63pt>
+File: Picture3.png Graphic file (type png)
+<use Picture3.png>
+Package pdftex.def Info: Picture3.png  used on input line 49.
+(pdftex.def)             Requested size: 276.00105pt x 56.35823pt.
+<And.png, id=25, 196.3335pt x 71.66776pt>
+File: And.png Graphic file (type png)
+<use And.png>
+Package pdftex.def Info: And.png  used on input line 59.
+(pdftex.def)             Requested size: 103.50105pt x 37.7814pt.
+ [3 <./Picture3.png> <./And.png>]
+<And gate.png, id=31, 301.125pt x 193.32225pt>
+File: And gate.png Graphic file (type png)
+<use And gate.png>
+Package pdftex.def Info: And gate.png  used on input line 82.
+(pdftex.def)             Requested size: 276.00105pt x 177.20966pt.
+<or.png, id=32, 226.446pt x 75.28125pt>
+File: or.png Graphic file (type png)
+<use or.png>
+Package pdftex.def Info: or.png  used on input line 89.
+(pdftex.def)             Requested size: 96.00096pt x 31.91426pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./And gate.png> <./or.png>]
+<OR Gate.png, id=39, 301.125pt x 193.32225pt>
+File: OR Gate.png Graphic file (type png)
+<use OR Gate.png>
+Package pdftex.def Info: OR Gate.png  used on input line 114.
+(pdftex.def)             Requested size: 276.00105pt x 177.20966pt.
+<NOT.png, id=40, 190.311pt x 54.80475pt>
+File: NOT.png Graphic file (type png)
+<use NOT.png>
+Package pdftex.def Info: NOT.png  used on input line 125.
+(pdftex.def)             Requested size: 96.00096pt x 27.64647pt.
+ [5 <./OR Gate.png> <./NOT.png>]
+<NOT GATE.png, id=47, 286.06876pt x 193.32225pt>
+File: NOT GATE.png Graphic file (type png)
+<use NOT GATE.png>
+Package pdftex.def Info: NOT GATE.png  used on input line 144.
+(pdftex.def)             Requested size: 276.00105pt x 186.5194pt.
+<NOR.png, id=48, 222.8325pt x 52.39575pt>
+File: NOR.png Graphic file (type png)
+<use NOR.png>
+Package pdftex.def Info: NOR.png  used on input line 157.
+(pdftex.def)             Requested size: 137.9979pt x 32.44824pt.
+<Arrow.png, id=49, 65.043pt x 32.2806pt>
+File: Arrow.png Graphic file (type png)
+<use Arrow.png>
+Package pdftex.def Info: Arrow.png  used on input line 157.
+(pdftex.def)             Requested size: 51.7479pt x 25.68362pt.
+<NOR result.png, id=50, 153.57375pt x 67.452pt>
+File: NOR result.png Graphic file (type png)
+<use NOR result.png>
+Package pdftex.def Info: NOR result.png  used on input line 157.
+(pdftex.def)             Requested size: 103.50105pt x 45.45917pt.
+ [6 <./NOT GATE.png> <./NOR.png> <./Arrow.png> <./NOR result.png>]
+<NOR GATE.png, id=58, 377.61075pt x 349.90726pt>
+File: NOR GATE.png Graphic file (type png)
+<use NOR GATE.png>
+Package pdftex.def Info: NOR GATE.png  used on input line 180.
+(pdftex.def)             Requested size: 276.00105pt x 255.76118pt.
+<NAND.png, id=59, 245.11575pt x 57.21375pt>
+File: NAND.png Graphic file (type png)
+<use NAND.png>
+Package pdftex.def Info: NAND.png  used on input line 194.
+(pdftex.def)             Requested size: 137.9979pt x 32.21144pt.
+File: Arrow.png Graphic file (type png)
+<use Arrow.png>
+Package pdftex.def Info: Arrow.png  used on input line 194.
+(pdftex.def)             Requested size: 51.7479pt x 25.68362pt.
+<NAND RESULT.png, id=60, 240.9pt x 68.255pt>
+File: NAND RESULT.png Graphic file (type png)
+<use NAND RESULT.png>
+Package pdftex.def Info: NAND RESULT.png  used on input line 194.
+(pdftex.def)             Requested size: 103.50105pt x 29.32512pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./NOR GATE.png> <./NAND.png> <./NAND RESULT.png>]
+<NAND GATE.png, id=67, 342.68025pt x 225.2415pt>
+File: NAND GATE.png Graphic file (type png)
+<use NAND GATE.png>
+Package pdftex.def Info: NAND GATE.png  used on input line 218.
+(pdftex.def)             Requested size: 276.00105pt x 181.42384pt.
+<logic xor symbol.png, id=68, 224.84pt x 225.84375pt>
+File: logic xor symbol.png Graphic file (type png)
+<use logic xor symbol.png>
+Package pdftex.def Info: logic xor symbol.png  used on input line 225.
+(pdftex.def)             Requested size: 6.40135pt x 6.42696pt.
+<XOR.png, id=69, 259.56975pt x 109.6095pt>
+File: XOR.png Graphic file (type png)
+<use XOR.png>
+Package pdftex.def Info: XOR.png  used on input line 229.
+(pdftex.def)             Requested size: 137.9979pt x 58.27336pt.
+File: Arrow.png Graphic file (type png)
+<use Arrow.png>
+Package pdftex.def Info: Arrow.png  used on input line 229.
+(pdftex.def)             Requested size: 51.7479pt x 25.68362pt.
+<XOR RESULT.png, id=70, 204.16275pt x 63.23625pt>
+File: XOR RESULT.png Graphic file (type png)
+<use XOR RESULT.png>
+Package pdftex.def Info: XOR RESULT.png  used on input line 229.
+(pdftex.def)             Requested size: 103.50105pt x 32.05803pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<xnor logic rep.png, id=71, 100.375pt x 100.375pt>
+File: xnor logic rep.png Graphic file (type png)
+<use xnor logic rep.png>
+Package pdftex.def Info: xnor logic rep.png  used on input line 247.
+(pdftex.def)             Requested size: 9.5996pt x 9.59851pt.
+[8 <./NAND GATE.png> <./logic xor symbol.png> <./XOR.png> <./XOR RESULT.png>]
+File: logic xor symbol.png Graphic file (type png)
+<use logic xor symbol.png>
+Package pdftex.def Info: logic xor symbol.png  used on input line 249.
+(pdftex.def)             Requested size: 6.40135pt x 6.42696pt.
+<XNOR.png, id=79, 307.1475pt x 65.64525pt>
+File: XNOR.png Graphic file (type png)
+<use XNOR.png>
+Package pdftex.def Info: XNOR.png  used on input line 253.
+(pdftex.def)             Requested size: 137.9979pt x 29.49399pt.
+File: Arrow.png Graphic file (type png)
+<use Arrow.png>
+Package pdftex.def Info: Arrow.png  used on input line 253.
+(pdftex.def)             Requested size: 44.85168pt x 22.26082pt.
+<XNOR RESULT.png, id=80, 217.41225pt x 58.41824pt>
+File: XNOR RESULT.png Graphic file (type png)
+<use XNOR RESULT.png>
+Package pdftex.def Info: XNOR RESULT.png  used on input line 253.
+(pdftex.def)             Requested size: 103.50105pt x 27.81046pt.
+File: logic xor symbol.png Graphic file (type png)
+<use logic xor symbol.png>
+Package pdftex.def Info: logic xor symbol.png  used on input line 259.
+(pdftex.def)             Requested size: 6.90147pt x 6.93008pt.
+
+[9 <./xnor logic rep.png> <./XNOR.png> <./XNOR RESULT.png>] (ClassProject2.aux)
+ ) 
+Here is how much of TeX's memory you used:
+ 3315 strings out of 478936
+ 54573 string characters out of 2852770
+ 660111 words of memory out of 3000000
+ 21157 multiletter control sequences out of 15000+600000
+ 408319 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,15n,77p,427b,467s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Glory\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk><C:/Users/Glory/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/Glory/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/Glory/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Glory/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Glory/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Glory/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Glory/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on ClassProject2.pdf (9 pages, 811374 bytes).
+PDF statistics:
+ 121 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+

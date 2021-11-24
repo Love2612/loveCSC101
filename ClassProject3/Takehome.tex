@@ -1,0 +1,62 @@
+\documentclass{article}
+\usepackage{amsmath}
+
+\title{Cardano's Formula for Cubic Equations}
+\author{Love Folami}
+
+\begin{document}
+	\maketitle
+	\begin{center}
+	\paragraph{Abstract}
+	
+	\end{center} 
+\paragraph{}
+	\cite{jj1998cardano}Girolamo Cardano, also known as Cardano, was an Italian doctor and mathematician best known for his work Ars Magna, the first Latin treatise on algebra. He described the strategies he had learned from Tartaglia for solving cubic and quartic problems.
+	
+	\section{Introduction to Cardano's Formula}
+\paragraph{}
+   	Let $P$ be the cubic equation:
+	\paragraph{}
+	$ax^{3}+bx^{2}+cx+d=0,$ 
+		$a\neq0$
+	
+
+	\paragraph{}
+	Then $P$ has solutions:	
+	\paragraph{}
+	$x_{1}=S+T-\frac{b}{3a}$
+	\paragraph{}	
+	$x_{2}=-\frac{S+T}{2}-\frac{b}{3a}+\frac{i\sqrt{3}}{2}(S-T)$
+	\paragraph{}
+	$x_{3}=-\frac{S+T}{2}-\frac{b}{3a}-\frac{i\sqrt{3}}{2}(S-T)$
+	\paragraph{}
+	where:
+	\paragraph{}
+	$S={\sqrt[3]{R+\sqrt{Q^{3}+R^{2}}}}$
+	\paragraph{}
+	$T={\sqrt[3]{R-\sqrt{Q^{3}+R^{2}}}}$
+\paragraph{}	
+	where:
+	\paragraph{}
+	$Q=\frac{3ac-b^{2}}{9a^{2}}$
+	\paragraph{}
+	$R=\frac{9abc-27a^{2}d-2b^{3}}{54a^{3}}$
+	\paragraph{}
+	The expression $D=Q^{3}+R^{2}$ is called the discriminant of the equation.
+\paragraph{}
+Let ${a, b, c, d, \in R}\quad$
+Then:
+\begin{itemize}
+	\item If $D>0$, then one root is real and two are complex conjugates.
+	\item If $D=0$, then all roots are real, and at least two are equal.
+	\item  If $D<0$, then all roots are real and unequal.
+\end{itemize}
+\subsection{Some Examples}
+\begin{itemize}
+	\item $x^{3}-2x^{2}-5x+6=0$
+	\item $x^{3}-3x^{2}+4x-2=0$
+\end{itemize}
+	\newpage
+\bibliographystyle{ieeetr}
+	\bibliography{Cardano.bib}
+	\end{document}
