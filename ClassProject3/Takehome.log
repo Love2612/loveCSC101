@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.11.24)  24 NOV 2021 23:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.11.24)  15 JAN 2022 21:02
 entering extended mode
 **./Takehome.tex
 (Takehome.tex
@@ -109,30 +109,41 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 	\end{center}
+l.11 	\end{center}
                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+[1
 
-LaTeX Warning: Citation `jj1998cardano' on page 1 undefined on input line 14.
-
-! I can't write on file `Takehome.pdf'.
-Please type another file name for output
-! Emergency stop.
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.46 \paragraph
-               {}
-*** (job aborted, file error in nonstop mode)
-
- 
+{C:/Users/Glory/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+(Takehome.bbl) [3] (Takehome.aux) ) 
 Here is how much of TeX's memory you used:
- 1062 strings out of 478936
- 15168 string characters out of 2852770
+ 1077 strings out of 478936
+ 15462 string characters out of 2852770
  649111 words of memory out of 3000000
- 18976 multiletter control sequences out of 15000+600000
- 408506 words of font info for 45 fonts, out of 8000000 for 9000
+ 18983 multiletter control sequences out of 15000+600000
+ 409148 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,9n,66p,316b,191s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ <C:\Users\Glory\AppData\Local\MiKTeX\fonts/
+pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Glory/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Glory/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Glory/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/G
+lory/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
+:/Users/Glory/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
+7.pfb><C:/Users/Glory/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr10.pfb><C:/Users/Glory/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr12.pfb><C:/Users/Glory/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr17.pfb><C:/Users/Glory/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Glory/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Glory/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Glory/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Takehome.pdf (3 pages, 141497 bytes).
+PDF statistics:
+ 77 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
